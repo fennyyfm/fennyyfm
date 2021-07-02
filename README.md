@@ -1,6 +1,6 @@
-👋 Hi, I’m @fennyyfm
-👀 I’m interested in web development, natural language processing, and machine learning
-📫 Reach me on my instagram @fennyyfm
+- 👋 Hi, I’m @fennyyfm
+- 👀 I’m interested in web development, natural language processing, and machine learning
+- 📫 Reach me on my instagram @fennyyfm
 
 <!---
 fennyyfm/fennyyfm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
