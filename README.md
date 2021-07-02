@@ -1,4 +1,4 @@
-👋 Hi, I’m @fennyyfm  
+👋 Hi, I’m Fenny Feronika Maharani
 👀 I’m interested in web development, natural language processing, and machine learning  
 📫 Reach me on my instagram @fennyyfm
 
